@@ -1,4 +1,4 @@
-<h1><span style="color: #00C647">savio@github</span>: <span style="color: lightblue">~</span> # gitfetch</h1> 
+<h1>$${\color{#00C647}\texttt{savio@github}}$$: $${\color{lightblue}\sim\#}$$ $${\texttt{gitfetch}}$$</h1> 
 
 <pre><font><b>--    ######                            </b></font>         <font color="##00C647"><b>savio</b></font>@<font color="##00C647"><b>github</b></font> 
 <font><b>  ##########MM##mm                      </b></font>         ---------------------- 
